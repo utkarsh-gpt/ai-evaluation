@@ -1,0 +1,442 @@
+Prompt Title: evabot data
+
+GPT model scores:
+Accuracy: 8/10
+Coherence: 9/10
+Creativity: 7/10
+Relevance: 9/10
+Quality: 9/10
+
+Sonnet model scores:
+Accuracy: 9/10
+Coherence: 8/10
+Creativity: 7/10
+Relevance: 9/10
+Quality: 8/10
+
+The GPT model has slightly better scores overall.
+--------------------
+Prompt Title: Company Insight Generation
+
+GPT model scores:
+Accuracy: 9/10
+Coherence: 10/10
+Creativity: N/A
+Relevance: 10/10
+Quality: 9/10
+
+Sonnet model scores:
+Accuracy: 10/10
+Coherence: 10/10
+Creativity: N/A
+Relevance: 10/10
+Quality: 10/10
+
+The Sonnet model has better scores overall.
+--------------------
+Prompt Title: Stakeholder Data Analysis
+
+GPT Model Scores:
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 9/10
+Quality: 9/10
+
+Sonnet Model Scores:
+Accuracy: 8/10
+Coherence: 9/10
+Creativity: 7/10
+Relevance: 9/10
+Quality: 8/10
+
+The GPT model has better scores overall.
+--------------------
+Prompt Title: Company Insight JSON Generation
+
+GPT model scores:
+Accuracy: 9/10
+Coherence: 10/10
+Creativity: N/A (not applicable for this task)
+Relevance: 10/10
+Quality: 9/10
+
+Sonnet model scores:
+Accuracy: 10/10
+Coherence: 10/10
+Creativity: N/A (not applicable for this task)
+Relevance: 10/10
+Quality: 10/10
+
+The Sonnet model has better scores overall.
+--------------------
+Prompt Title: Stakeholder Data Analysis
+
+GPT Scores:
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 9/10
+Quality: 9/10
+
+Sonnet Scores:
+Accuracy: 8/10
+Coherence: 9/10
+Creativity: 7/10
+Relevance: 9/10
+Quality: 8/10
+
+The GPT model has better scores overall, particularly in accuracy and quality.
+--------------------
+Prompt Title: Company Insight JSON Generation
+
+GPT model scores:
+Accuracy: 9/10
+Coherence: 10/10
+Creativity: 8/10
+Relevance: 10/10
+Quality: 10/10
+
+Sonnet model scores:
+Accuracy: 10/10
+Coherence: 10/10
+Creativity: 8/10
+Relevance: 10/10
+Quality: 10/10
+
+The Sonnet model has better scores overall.
+--------------------
+Prompt Title: Stakeholder Data Analysis
+
+GPT Model Scores:
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 9/10
+Quality: 9/10
+
+Sonnet Model Scores:
+Accuracy: 8/10
+Coherence: 9/10
+Creativity: 7/10
+Relevance: 9/10
+Quality: 8/10
+
+The GPT model has better scores overall, particularly in accuracy and quality.
+--------------------
+Prompt Title: Company Insight JSON Generation
+
+GPT Model Scores:
+Accuracy: 9/10
+Coherence: 10/10
+Creativity: 8/10
+Relevance: 10/10
+Quality: 10/10
+
+Sonnet Model Scores:
+Accuracy: 9/10
+Coherence: 10/10
+Creativity: 8/10
+Relevance: 10/10
+Quality: 9/10
+
+The GPT model has slightly better scores overall.
+--------------------
+Prompt Title: Stakeholder Data Analysis
+
+GPT Model Scores:
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 9/10
+Quality: 9/10
+
+Sonnet Model Scores:
+Accuracy: 8/10
+Coherence: 9/10
+Creativity: 7/10
+Relevance: 9/10
+Quality: 8/10
+
+The GPT model has better scores overall, with higher accuracy and creativity compared to the Sonnet model.
+--------------------
+Prompt Title: Company Insight JSON Generation
+
+GPT Model Scores:
+Accuracy: 9/10
+Coherence: 10/10
+Creativity: N/A
+Relevance: 10/10
+Quality: 10/10
+
+Sonnet Model Scores:
+Accuracy: 10/10
+Coherence: 10/10
+Creativity: N/A
+Relevance: 10/10
+Quality: 10/10
+
+The Sonnet model has better scores overall.
+--------------------
+Prompt: Stakeholder Data Analysis
+
+GPT Model Scores:
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 9/10
+Quality: 9/10
+
+Sonnet Model Scores:
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 9/10
+Quality: 9/10
+
+Both models have equal scores across all categories. There is no clear winner as both performed equally well in analyzing and generating responses based on the given stakeholder data.
+--------------------
+Prompt Title: Vanderbilt Commodores Basketball Team Update
+
+GPT model scores:
+Accuracy: 8/10
+Coherence: 9/10
+Creativity: 7/10
+Relevance: 9/10
+Quality: 9/10
+
+Sonnet model scores:
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 7/10
+Relevance: 10/10
+Quality: 9/10
+
+The Sonnet model has better scores overall.
+--------------------
+Prompt Title: Evaluating AI-generated insights and account scoring for Evabot selling to Lattice
+
+GPT Model Scores:
+Accuracy: 8/10
+Coherence: 9/10
+Creativity: 7/10
+Relevance: 8/10
+Quality: 8/10
+
+Sonnet Model Scores:
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 9/10
+Quality: 9/10
+
+The Sonnet model has better scores overall.
+--------------------
+Prompt Title: Evaluate AI-generated insights for EvaBot selling to Lattice
+
+GPT Model:
+Accuracy: 8/10
+Coherence: 9/10
+Creativity: 7/10
+Relevance: 8/10
+Quality: 8/10
+
+Sonnet Model:
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 9/10
+Quality: 9/10
+
+The Sonnet model has better scores overall. It provided more accurate and relevant insights that aligned closely with Lattice's business news and EvaBot's offerings. The Sonnet model also demonstrated better creativity in identifying potential collaboration opportunities between the two companies.
+--------------------
+Prompt Title: Analyzing AI-generated responses for Lattice and EvaBot
+
+Scores for GPT model:
+Accuracy: 8/10
+Coherence: 9/10
+Creativity: 7/10
+Relevance: 8/10
+Quality: 8/10
+
+Scores for Sonnet model:
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 9/10
+Quality: 9/10
+
+The Sonnet model has better scores overall.
+--------------------
+Prompt Title: EvaBot's Insights for Lattice
+
+AI Model Scores:
+
+GPT Model:
+Accuracy: 8/10
+Coherence: 9/10
+Creativity: 7/10
+Relevance: 8/10
+Quality: 8/10
+
+Sonnet Model:
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 9/10
+Quality: 9/10
+
+The Sonnet model has better scores overall.
+--------------------
+Prompt Title: News Article Relevance Check
+
+GPT Model Scores:
+Accuracy: 10/10
+Coherence: 10/10
+Creativity: N/A (not applicable for this task)
+Relevance: 10/10
+Quality: 10/10
+
+Sonnet Model Scores:
+Accuracy: 10/10
+Coherence: 10/10
+Creativity: N/A (not applicable for this task)
+Relevance: 10/10
+Quality: 10/10
+
+Both models have equal scores.
+--------------------
+Prompt Title: News Relevance Check
+
+GPT model scores:
+Accuracy: 10/10
+Coherence: 10/10
+Creativity: N/A (not applicable for this task)
+Relevance: 10/10
+Quality: 10/10
+
+Sonnet model scores:
+Accuracy: 10/10
+Coherence: 10/10
+Creativity: N/A (not applicable for this task)
+Relevance: 10/10
+Quality: 10/10
+
+Both models have equal scores.
+--------------------
+Prompt Title: Cold Call Preparation for Satwick Saxena to Kurt Zanca
+
+GPT Model Scores:
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 9/10
+Quality: 9/10
+
+Sonnet Model Scores:
+Accuracy: 8/10
+Coherence: 8/10
+Creativity: 7/10
+Relevance: 8/10
+Quality: 8/10
+
+The GPT model has better scores overall.
+--------------------
+Prompt: Draft email outreach
+
+GPT Model Scores:
+Accuracy: 8/10
+Coherence: 9/10
+Creativity: 7/10
+Relevance: 9/10
+Quality: 8/10
+
+Sonnet Model Scores:
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 10/10
+Quality: 9/10
+
+The Sonnet model has better scores overall.
+--------------------
+Prompt: Motus Business News Summary
+
+Scores for AI model (out of 10):
+
+Accuracy: 8
+Coherence: 9
+Creativity: 7
+Relevance: 9
+Quality: 8
+
+Scores for Expected Response (out of 10):
+
+Accuracy: 9
+Coherence: 9
+Creativity: 8
+Relevance: 10
+Quality: 9
+
+The Expected Response has better scores overall.
+--------------------
+Prompt: Evaluate the response generated from the AI model and the expected response
+
+Accuracy:
+GPT: 8/10
+Sonnet: 9/10
+
+Coherence:
+GPT: 9/10
+Sonnet: 9/10
+
+Creativity:
+GPT: 8/10
+Sonnet: 8/10
+
+Relevance:
+GPT: 9/10
+Sonnet: 10/10
+
+Quality:
+GPT: 8/10
+Sonnet: 9/10
+
+The Sonnet model has better scores overall.
+--------------------
+Prompt Title: LinkedIn Sales Tracking Challenges
+
+GPT Model Scores:
+Accuracy: 8/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 9/10
+Quality: 8/10
+
+Sonnet Model Scores:
+Accuracy: 7/10
+Coherence: 8/10
+Creativity: 7/10
+Relevance: 8/10
+Quality: 7/10
+
+The GPT model has better scores overall.
+--------------------
+Prompt: Scott Martini's LinkedIn Post
+
+Accuracy: 8/10
+Coherence: 9/10
+Creativity: 7/10
+Relevance: 9/10
+Quality: 8/10
+
+Expected Response:
+
+Accuracy: 9/10
+Coherence: 9/10
+Creativity: 8/10
+Relevance: 10/10
+Quality: 9/10
+
+The expected response has better scores overall, particularly in accuracy, creativity, and relevance. It provides a more comprehensive and detailed summary of Lattice's approach to employee benefits, aligning them with company values and showcasing specific examples and strategies.
+--------------------
